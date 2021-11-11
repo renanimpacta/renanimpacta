@@ -1,5 +1,5 @@
 ### <p align="center">Oii, eu sou o Renan! 👋</p>
-###  <p align="center">Seja bem vinde, pegue seu café ☕ e sinta-se à vontade para ver meus preciosos códigos 💍💻</p>
+###  <p align="center">Seja bem vind, pegue seu café ☕ e sinta-se à vontade para ver meus preciosos códigos 💍💻</p>
 ##
 
 - 🌱 Estudando Desenvolvimento Fullstack JAVA
