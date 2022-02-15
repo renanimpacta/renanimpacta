@@ -2,7 +2,7 @@
 ###  <p align="center">Seja bem vind, pegue seu café ☕ e sinta-se à vontade para ver meus preciosos códigos 💍💻</p>
 ##
 
-- 🌱 Estudando Desenvolvimento Fullstack JAVA
+- 🌱 Trabalhando com Desenvolvimento BackEnd Spring JAVA
 - 📫 Contate-me por e-mail: santana.renan@outlook.com
 - 😄 Pronomes: Ele/Dele
 
