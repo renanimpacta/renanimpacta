@@ -20,6 +20,7 @@ This space reflects how I think, build, and evolve as an engineer outside of my 
 ### 🧠 Areas of interest
 - Software architecture
 - Backend & system design
+- Artificial Intelligence & applied AI
 - APIs and integrations
 - Automation and developer productivity
 
